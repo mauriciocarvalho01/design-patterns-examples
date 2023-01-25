@@ -74,6 +74,3 @@ O benefício principal de se usar esse pattern, é tornar fácil o acesso e ger�
 Referência:
 Design Patterns: Elements of Reusable Object-Oriented Software” de 1994, escrito por GOF (Gang of Four: Rich Gamma, Richard Helm, Ralph Johnson e John Vlissides)
 https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/aulas/padroes-gof_v01.pdf
-
-Github:
-https://github.com/mauriciocarvalho01?tab=repositories
