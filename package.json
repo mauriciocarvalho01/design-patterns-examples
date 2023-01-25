@@ -4,8 +4,9 @@
   "description": "Learning design patterns",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "tsc": "tsc"
+    "start": "node dist",
+    "tsc": "tsc",
+    "build-watch": "tsc -w"
   },
   "repository": {
     "type": "git",
